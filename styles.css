@@ -1,0 +1,21 @@
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    text-align: center;
+    color: darkslategrey;
+}
+
+#index_line {
+    width: 80%
+}
+
+li {
+    padding-top: 10px;
+}
+
+.nav_buttons {
+    display: flex;
+    justify-content: center;
+}
